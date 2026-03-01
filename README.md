@@ -43,14 +43,6 @@ Actualmente también trabajo en el espacio de **agentes de IA**, combinando mi b
 
 ---
 
-### 📈 Estadísticas
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sealca/sealca/output/metrics.svg" alt="Metrics" width="100%" />
-</div>
-
----
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sealca/sealca/output/snake.svg" alt="Snake animation" />
