@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/sitoct98/sitoct98/main/SuperSergioProg.PNG" alt="Profile image"/>
+  <img src="https://raw.githubusercontent.com/sealca/sealca/main/SuperSergioProg.PNG" alt="Profile image"/>
 </div>
 
 ## ¡Hola! Soy Sergio 👋
@@ -54,4 +54,4 @@ Actualmente también trabajo en el espacio de **agentes de IA**, combinando mi b
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sitoct98/sitoct98/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sealca/sealca/output/snake.svg" alt="Snake animation" />
