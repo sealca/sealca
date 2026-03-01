@@ -45,9 +45,13 @@ Actualmente también trabajo en el espacio de **agentes de IA**, combinando mi b
 
 ### 📈 Estadísticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sealca&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sealca&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealca&theme=dracula" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sealca&theme=dracula" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sealca&theme=dracula" height="150" />
 </div>
 
 ---
