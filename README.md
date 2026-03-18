@@ -2,24 +2,24 @@
   <img src="https://raw.githubusercontent.com/sealca/sealca/main/SuperSergioProg.PNG" alt="Profile image"/>
 </div>
 
-## ¡Hola! Soy Sergio 👋
+## Hey! I'm Sergio 👋
 
-**Full Stack Developer & Software Architect** con experiencia construyendo software de negocio real.  
-Desarrollo desde integraciones y APIs hasta aplicaciones B2B completas, siempre buscando soluciones simples, mantenibles y bien estructuradas.
+**Full Stack Developer & Software Architect** with experience building real business software.  
+I work on everything from integrations and APIs to full B2B applications, always aiming for simple, maintainable, and well-structured solutions.
 
-Actualmente también trabajo en el espacio de **agentes de IA**, combinando mi base en arquitectura de software con las posibilidades que ofrecen los LLMs para construir herramientas que aporten valor real.
-
----
-
-### 📌 Actualmente
-- Diseñando y desarrollando **aplicaciones B2B** y software de negocio
-- Construyendo **herramientas y agentes de IA** aplicados a problemas reales
-- Trabajando con **arquitecturas backend** escalables y bien diseñadas
-- Explorando la intersección entre **desarrollo de software profesional e inteligencia artificial**
+I'm also currently working in the **AI agents** space, combining my software architecture background with LLMs to build tools that deliver real value.
 
 ---
 
-### 🧰 Tecnologías
+### 📌 Currently
+- Designing and developing **B2B applications** and business software
+- Building **AI tools and agents** applied to real-world problems
+- Working with scalable and well-designed **backend architectures**
+- Exploring the intersection of **professional software development and artificial intelligence**
+
+---
+
+### 🧰 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
