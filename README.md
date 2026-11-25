@@ -22,7 +22,6 @@ I'm also currently working in the **AI agents** space, combining my software arc
 Selected work
 - FisioGrow.com — clinic-management SaaS running with a pilot clinic.
 - Coelmur.es — corporate website and internal commercial-management application.
-- Comercia.app — multi-tenant RAG assistant for SMEs.
 
 ---
 
